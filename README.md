@@ -1,2 +1,2 @@
 # chat
-A program that allows chat communication.
+A program that allows communication.
